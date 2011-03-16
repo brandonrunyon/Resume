@@ -1,0 +1,49 @@
+Brandon Runyon
+1014 North Rapp
+Columbia, Illinois 62236
+(618) 447-3525
+brandon@brandonrunyon.com
+
+OBJECTIVE
+Seeking position in the information technology field utilizing programming, database development and systems analysis skills gained during college. Quick learner dedicated to solving problems and resolving issues. 
+
+EDUCATION
+Southwestern Illinois College, Belleville, IL
+Relevant coursework: C++, Trigonometry, Calculus, 2009-2010 
+Greenville College, Greenville, IL
+Bachelor of Science: Digital Media, May 2009
+Emphasis: Information Systems  
+Cumulative GPA: 3.12 of 4.0
+Southwestern Illinois College, Belleville, IL
+Associate of Fine Arts in Music Performance, May 2007 
+
+TECHNICAL SKILLS
+Operating Systems:  Debian Linux, Windows XP/Vista, Mac OSX, Cisco Device IOS
+Database Management: Microsoft SQL Server 2008, MySQL, Microsoft Access
+Networking: TCP/IP, DNS, Cisco router, Nmap, Switched networks
+Servers:  Linux, Apache2, Tomcat, Windows Server '03 and '08
+Programming Languages: Java, C++, PHP, Javascript, jQuery, Python, XML, JSON, HTML/CSS, SQL
+Applications: MS Office 97-07, Visual Studio '08, Visio, MS Project, Netbeans 6.9, OpenOffice, GCC, Emacs, VI, Eclipse, Mono  for Linux (.NET 2.0-4.0)
+
+RELEVANT EXPERIENCE
+Greenville College, Greenville IL
+Programming tutor/ teaching assistant, January – May 2009
+Led lectures and tutored students in Java computer programming using multiple platforms
+Graded programming assignments
+
+OTHER EXPERIENCE
+Terminix International, Fairview Heights IL
+Sales, October 2009 – February 2010
+Pest/Termite inspections and sales calls
+
+The Training Room, Columbia IL
+Courtesy Staff, June 2004 – November 2009                                    
+Performed occasional emergency reboots to Server 2003 and Cisco 1700 Routers
+Used MS Word, Excel, web mail client, and RCM customer management software
+Trouble shot the 24 hour access system and door mechanisms
+Sold retail membership and services 
+Oversaw the performance of operations and maintenance by fitness technicians
+
+Southwestern Illinois College, Belleville IL 
+Music Lab Attendant, August 2005 – 2006                                     
+Provided music theory assistance for students and handled the upkeep of iMac computers 
